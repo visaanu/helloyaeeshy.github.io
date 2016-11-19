@@ -1,0 +1,83 @@
+header {
+    background-color: indigo;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: fantasy;
+}
+
+nav {
+    background-color: mediumpurple;
+    line-height: 40px;
+    height: 750px;
+    width: 15%;
+    float: left;
+    padding: 5px;
+}
+
+ul {
+    list-style: none;
+    padding-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding-right: 10px;
+    font-family: fantasy;
+}
+
+a:hover {
+    color: black;
+}
+
+section {
+    color: black;
+    width: 65%;
+    float: left;
+    padding: 5px 50px 0px 50px;
+}
+
+h2 {
+    font-size: 60px;
+    text-decoration: underline;
+    text-align: center;
+    font-family: fantasy;
+}
+
+.Purple {
+    color: purple;
+}
+
+.Bold {
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+    font-size: 15px;
+    font-family: fantasy;
+    padding-top: 20px;
+}
+
+
+footer {
+    background-color: indigo;
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 3px;
+}
+
+h3 {
+    text-align: center;
+    color: indigo;
+    border: 5px solid indigo;
+    outline-color: indigo;
+    font-size: 40px;
+}
+
+h3.solid {
+    outline-style: solid;
+}
